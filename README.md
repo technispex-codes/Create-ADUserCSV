@@ -17,6 +17,6 @@ first,last,dept,jobtitle,email
 
 import-module <script filepath>
 
-Create-ADUserCSV -csvpath <csv file path>
+CreateADUserCSV -csvpath <csv file path>
 
 =====================================================================================
