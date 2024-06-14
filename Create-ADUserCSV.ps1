@@ -1,5 +1,5 @@
 #Create a function to call from the command line
-function Create-ADUserCSV {
+function CreateADUserCSV {
 	
 	#Require a csv file path when calling the function by creating a parameter
 	param([Parameter(Mandatory)][String]$csvpath)
